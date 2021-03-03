@@ -1,11 +1,11 @@
-current directory: /Users/Aidyna/Working/mm-github-pages-starter/vendor/bundle/ruby/3.0.0/gems/commonmarker-0.17.13/ext/commonmarker
-/usr/local/opt/ruby/bin/ruby -I /usr/local/Cellar/ruby/3.0.0_1/lib/ruby/3.0.0 -r ./siteconf20210302-13351-ed0osc.rb extconf.rb
+current directory: /Users/Aidyna/Working/metahdev.github.io/vendor/bundle/ruby/3.0.0/gems/commonmarker-0.17.13/ext/commonmarker
+/usr/local/opt/ruby/bin/ruby -I /usr/local/Cellar/ruby/3.0.0_1/lib/ruby/3.0.0 -r ./siteconf20210303-17677-l76iaa.rb extconf.rb
 creating Makefile
 
-current directory: /Users/Aidyna/Working/mm-github-pages-starter/vendor/bundle/ruby/3.0.0/gems/commonmarker-0.17.13/ext/commonmarker
+current directory: /Users/Aidyna/Working/metahdev.github.io/vendor/bundle/ruby/3.0.0/gems/commonmarker-0.17.13/ext/commonmarker
 make "DESTDIR=" clean
 
-current directory: /Users/Aidyna/Working/mm-github-pages-starter/vendor/bundle/ruby/3.0.0/gems/commonmarker-0.17.13/ext/commonmarker
+current directory: /Users/Aidyna/Working/metahdev.github.io/vendor/bundle/ruby/3.0.0/gems/commonmarker-0.17.13/ext/commonmarker
 make "DESTDIR="
 compiling arena.c
 warning: unknown warning option '-Wmisleading-indentation'; did you mean '-Wbinding-in-condition'? [-Wunknown-warning-option]
@@ -155,6 +155,6 @@ warning: unknown warning option '-Wmisleading-indentation'; did you mean '-Wbind
 1 warning generated.
 linking shared-object commonmarker/commonmarker.bundle
 
-current directory: /Users/Aidyna/Working/mm-github-pages-starter/vendor/bundle/ruby/3.0.0/gems/commonmarker-0.17.13/ext/commonmarker
+current directory: /Users/Aidyna/Working/metahdev.github.io/vendor/bundle/ruby/3.0.0/gems/commonmarker-0.17.13/ext/commonmarker
 make "DESTDIR=" install
-/usr/bin/install -c -m 0755 commonmarker.bundle ./.gem.20210302-13351-9c7wzn/commonmarker
+/usr/bin/install -c -m 0755 commonmarker.bundle ./.gem.20210303-17677-mx0fjl/commonmarker

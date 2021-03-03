@@ -1,11 +1,11 @@
-current directory: /Users/Aidyna/Working/mm-github-pages-starter/vendor/bundle/ruby/3.0.0/gems/http_parser.rb-0.6.0/ext/ruby_http_parser
-/usr/local/opt/ruby/bin/ruby -I /usr/local/Cellar/ruby/3.0.0_1/lib/ruby/3.0.0 -r ./siteconf20210302-13351-agit2k.rb extconf.rb
+current directory: /Users/Aidyna/Working/metahdev.github.io/vendor/bundle/ruby/3.0.0/gems/http_parser.rb-0.6.0/ext/ruby_http_parser
+/usr/local/opt/ruby/bin/ruby -I /usr/local/Cellar/ruby/3.0.0_1/lib/ruby/3.0.0 -r ./siteconf20210303-17677-8vliyh.rb extconf.rb
 creating Makefile
 
-current directory: /Users/Aidyna/Working/mm-github-pages-starter/vendor/bundle/ruby/3.0.0/gems/http_parser.rb-0.6.0/ext/ruby_http_parser
+current directory: /Users/Aidyna/Working/metahdev.github.io/vendor/bundle/ruby/3.0.0/gems/http_parser.rb-0.6.0/ext/ruby_http_parser
 make "DESTDIR=" clean
 
-current directory: /Users/Aidyna/Working/mm-github-pages-starter/vendor/bundle/ruby/3.0.0/gems/http_parser.rb-0.6.0/ext/ruby_http_parser
+current directory: /Users/Aidyna/Working/metahdev.github.io/vendor/bundle/ruby/3.0.0/gems/http_parser.rb-0.6.0/ext/ruby_http_parser
 make "DESTDIR="
 compiling ruby_http_parser.c
 warning: unknown warning option '-Wmisleading-indentation'; did you mean '-Wbinding-in-condition'? [-Wunknown-warning-option]
@@ -15,6 +15,6 @@ warning: unknown warning option '-Wmisleading-indentation'; did you mean '-Wbind
 1 warning generated.
 linking shared-object ruby_http_parser.bundle
 
-current directory: /Users/Aidyna/Working/mm-github-pages-starter/vendor/bundle/ruby/3.0.0/gems/http_parser.rb-0.6.0/ext/ruby_http_parser
+current directory: /Users/Aidyna/Working/metahdev.github.io/vendor/bundle/ruby/3.0.0/gems/http_parser.rb-0.6.0/ext/ruby_http_parser
 make "DESTDIR=" install
-/usr/bin/install -c -m 0755 ruby_http_parser.bundle ./.gem.20210302-13351-8xv90l
+/usr/bin/install -c -m 0755 ruby_http_parser.bundle ./.gem.20210303-17677-ynykr3
