@@ -21,7 +21,7 @@ title                    : "iosdev.kz"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Askar Almukhamet"
-description              : "An amazing website."
+description              : "iosdev.kz blog"
 url                      : https://iosdev.kz
 baseurl                  : ""
 repository               : metahdev/metahdev.github.io
@@ -97,7 +97,9 @@ analytics:
 author:
   name             : "Askar Almukhamet"
   avatar           : "/assets/images/bio-photo.png"
-  bio              : "iOS developer-enthusiast. Writing about iOS development. "
+  bio              : "
+  Sálem Álem! 🇰🇿 
+  I am an iOS developer-enthusiast. Welcome to my blog!"
   location         : "Atyrau, Kazakhstan"
   email            :
   links:

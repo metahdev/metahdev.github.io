@@ -4,9 +4,6 @@ permalink: /about/
 layout: single
 author_profile: true
 ---
-
-### Sálem Álem 🇰🇿
-
 ### About the blog 
 
 Welcome to iosdev.kz blog! Here you will find articles about iOS development. 
