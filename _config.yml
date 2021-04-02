@@ -57,10 +57,10 @@ search                   : true
 search_full_content      : # true, false (default)
 search_provider          : algolia
 algolia:
-  application_id         : # YOUR_APPLICATION_ID
-  index_name             : # YOUR_INDEX_NAME
-  search_only_api_key    : # YOUR_SEARCH_ONLY_API_KEY
-  powered_by             : # true (default), false
+  application_id         : ZV0DVF9AQ0
+  index_name             : prod_iosdev
+  search_only_api_key    : 39723c357f6f6c0667a347e450010d44
+  powered_by             : true 
 google:
   search_engine_id       : # YOUR_SEARCH_ENGINE_ID
   instant_search         : # false (default), true

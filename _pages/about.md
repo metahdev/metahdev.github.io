@@ -9,32 +9,32 @@ I am a 16-years-old teenager from Atyrau, Kazakhstan.
 I started developing iOS apps at the age of 14 and instantly fell in love with the process. I also enjoy sharing with people, and that’s why I decided to start this blog.
 
 
-#### Education  
+#### Education and Awards
 
-I am currently studying at the Nazarbayev Intellectual School, graduation year - 2023. Here are some of my valuable academic awards: 
+I am currently studying at the Nazarbayev Intellectual School, graduation year - 2023. Here are some of my valuable awards: 
+*  WWDC20 Swift Student Challenge winner
 * 3rd place in the Republican contest of scientific projects
-* A certificate for free training at [STEM Academy](https://https://stem-academia.com/en/main-page/)
 * The Student of the Year of NIS Atyrau in Computer Science field(2019)  
 
-In summer 2020, I also had an opportunity to participate in the [Stanford Pre-Collegiate Studies](https://spcs.stanford.edu), studying the Artificial Intelligence program. You can view my program evaluation [here](https://drive.google.com/file/d/1gN9RR8BqSoJUCvbcjkcM13p5H3KIKhpq/view?usp=sharing). 
+In summer 2020, I also had an opportunity to participate in the <a href="https://spcs.stanford.edu" target="_blank">Stanford Pre-Collegiate Studies</a>, studying the Artificial Intelligence program. You can view my student evaluation <a href="https://drive.google.com/file/d/1gN9RR8BqSoJUCvbcjkcM13p5H3KIKhpq/view?usp=sharing" target="_blank">here.</a> 
 
 
 #### Projects 
 
 ![](/assets/images/about/qulynym.png){: .align-left}
 
-I am the founder and main developer of Qulynym. It is an educational mobile application in the Kazakh language for preschoolers. The app is available in the [App Store](https://apps.apple.com/ru/app/qulynym/id1535210352).
+I am the founder and main developer of Qulynym. It is an educational mobile application in the Kazakh language for preschoolers. The app is available in the <a href="https://apps.apple.com/ru/app/qulynym/id1535210352" target="_blank">App Store</a>.
 
 
-In May 2020, I participated in the Apple WWDC20 Swift Student Challenge. 
-I was lucky enough to win the award with my project - the Dombra simulator. You can read more about it in this [article](https://bilimdinews.kz/?p=114024).
+My submission for the Apple WWDC20 Swift Student Challenge was the Dombra simulator. You can read more about it <a href="https://bilimdinews.kz/?p=114024" target="_blank">here</a>. I was also featured in an <a href="https://the-steppe.com/obshestvo/innovacii-nauka-i-chelovecheskiy-kapital-kak-stem-proekty-razvivayut-atyrau" target="_blank">article</a> about STEM education in the 'Steppe' magazine. 
 
 
 #### Work experience  
 
-In July-August 2019, I had an internship at the IT company called ["AV-software"](https://avsoft.kz/) based in Almaty, Kazakhstan.
+1. An internship at ["AV-software"](https://avsoft.kz/) from July-August 2019.  Location: Almaty, Kazakhstan.
+2. Junior iOS developer(Part-time - Remote) at ["Degreen"](https://degreen.kz/) from May-July 2020.  
 
-From May to July 2020, I had a part-time job at the delivery service ["Degreen"](https://degreen.kz/) as a junior iOS developer. It was my first major experience with a commercial project like this.
+
 
 
 
