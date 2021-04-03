@@ -8,6 +8,9 @@ I am a 16-years-old teenager from Atyrau, Kazakhstan.
 
 I started developing iOS apps at the age of 14 and instantly fell in love with the process. I also enjoy sharing with people, and that’s why I decided to start this blog.
 
+![full](/assets/images/about/me.png){: .full}
+<p style="text-align:center"><span style="color:gray"><sup><sub>an image from wwdcscholars.com</sub></sup></span></p>
+
 
 #### Education and Awards
 

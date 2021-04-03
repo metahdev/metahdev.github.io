@@ -98,7 +98,7 @@ analytics:
 author:
   name             : "Askar Almukhamet"
   avatar           : "/assets/images/bio-photo.png"
-  bio              : Sálem Álem! 🇰🇿<br />I'm a teenager who enjoys developing iOS apps. <br />Welcome to my blog!
+  bio              : Sálem Álem! 🇰🇿<br />I'm a teenager who enjoys<br />developing iOS apps. <br /> <br />Welcome to my blog!
   location         : "Atyrau, Kazakhstan"
   links:
     - label: "Email"
