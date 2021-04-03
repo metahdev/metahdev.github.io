@@ -4,7 +4,7 @@ permalink: /about/
 layout: single
 author_profile: true
 ---
-I am a 16-years-old teenager from Atyrau, Kazakhstan.  
+I am a 16-years-old teenager from Atyrau, Kazakhstan.  I enjoy playing video games and cycling. My favorite music band is the Black Keys. 
 
 I started developing iOS apps at the age of 14 and instantly fell in love with the process. I also enjoy sharing with people, and that’s why I decided to start this blog.
 
@@ -19,7 +19,7 @@ I am currently studying at the Nazarbayev Intellectual School, graduation year -
 * 3rd place in the Republican contest of scientific projects
 * The Student of the Year of NIS Atyrau in Computer Science field(2019)  
 
-In summer 2020, I also had an opportunity to participate in the <a href="https://spcs.stanford.edu" target="_blank">Stanford Pre-Collegiate Studies</a>, studying the Artificial Intelligence program. You can view my student evaluation <a href="https://drive.google.com/file/d/1gN9RR8BqSoJUCvbcjkcM13p5H3KIKhpq/view?usp=sharing" target="_blank">here.</a> 
+![image-right](/assets/images/instagram/stanford.png){: .align-right} In summer 2020, I also had an opportunity to participate in the <a href="https://spcs.stanford.edu" target="_blank">Stanford Pre-Collegiate Studies</a>, studying the Artificial Intelligence program. You can view my student evaluation <a href="https://drive.google.com/file/d/1gN9RR8BqSoJUCvbcjkcM13p5H3KIKhpq/view?usp=sharing" target="_blank">here.</a> 
 
 
 #### Projects 
