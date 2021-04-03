@@ -1,6 +1,6 @@
 ---
 title: "Creating a basketball simulator using UIKit only"
-date: 2021-03-07T15:34:30-04:00
+date: 2021-03-07
 teaser: /assets/images/basket/preview.jpg
 ---
 
@@ -8,8 +8,7 @@ teaser: /assets/images/basket/preview.jpg
 
   Today, we are going to make a simple basketball simulator, using only UIKit. Let’s get started!
 
-![](/assets/images/basket/preview.jpg){: .align-center}
-
+![full](/assets/images/basket/preview.jpg){: .full}
 <p style="text-align:center"><span style="color:gray"><sup><sub>an image from my iosdev.kz Instagram account</sub></sup></span></p>
 
 
@@ -197,9 +196,15 @@ Here is the how the app should look like:
 
 
 
-Make sure to check out the [source code](https://github.com/metahdev/UIKitDynamics) and experiment with the project on your own!
+Make sure to check out the <a href="https://github.com/metahdev/UIKitDynamics" target="_blank">**source code**</a> and experiment with the project on your own!
 
-I hope this article was helpful to you! You can subscribe to my [Instagram account](https://instagram.com/iosdev.kz), where I post the shorter version of my iOS development articles. 
+
+## Until next time! 
+I hope this article was helpful to you! 
+Share with this post and follow me on <a href="https://instagram.com/iosdev.kz" target="_blank">**Instagram**</a> where I post the short versions of my iOS development articles. 
+You can also visit my <a href="https://medium.com/iosdev-kz" target="_blank">**Medium account**</a>.
+
+P.S: any support is highly appreciated ;) 
 
 __Thanks for reading!__
 
