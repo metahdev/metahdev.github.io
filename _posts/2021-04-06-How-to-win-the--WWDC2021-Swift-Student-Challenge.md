@@ -39,6 +39,8 @@ Overall, the project isn’t especially technically complex: the idea itself, in
 
 ## Screenshots 
 ![full](/assets/images/7/screenshot1.png){: .full}
+
+
 ![full](/assets/images/7/screenshot2.png){: .full}
 
 
