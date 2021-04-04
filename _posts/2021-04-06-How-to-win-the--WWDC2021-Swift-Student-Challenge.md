@@ -7,7 +7,7 @@ teaser: /assets/images/instagram/7.jpg
 WWDC 2021 is coming this June, in an all-online format. Apple also announced that this year’s Swift Student Challenge, an opportunity for young developers to demonstrate their coding skills by creating a Swift playground, is now accepting submissions. In this post, I will give some tips on how to win this year's contest. 
 
 
-![full](/assets/images/instagram/6.jpg){: .full}
+![full](/assets/images/instagram/7.jpg){: .full}
 <p style="text-align:center"><span style="color:gray"><sup><sub>an image from my iosdev.kz Instagram account</sub></sup></span></p>
 
 
