@@ -14,7 +14,7 @@ It's always confusing and scary to start something new, mostly because you simpl
 A nice way to start iOS development is by learning Swift. There is no need to acquire Objective-C for beginners(although you may) because Swift is not a 'new player' anymore. Here are some great free resources: 
 
 * For beginners: the "100 Days of Swift" by Paul Hudson. It is a collection of videos, tutorials, tests, and more. 
-* For people with a programming background: Apple official **documentation**. This book is a comprehensive and clear explanation of the language's main features and syntax. 
+* For people with a programming background: Apple official documentation. This book is a comprehensive and clear explanation of the language's main features and syntax. 
 
 
 ## 2. Explore Further

@@ -4,7 +4,7 @@ permalink: /about/
 layout: single
 author_profile: true
 ---
-I am a 16-years-old teenager from Atyrau, Kazakhstan.  I enjoy playing video games and cycling. My favorite music band is the Black Keys. 
+I am a 16-years-old teenager from Atyrau, Kazakhstan.  I enjoy playing video games and cycling. I am also a huge fan of the Black Keys music band. 
 
 I started developing iOS apps at the age of 14 and instantly fell in love with the process. I also enjoy sharing with people, and that’s why I decided to start this blog.
 

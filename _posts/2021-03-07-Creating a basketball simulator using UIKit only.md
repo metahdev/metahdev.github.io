@@ -1,14 +1,14 @@
 ---
 title: "Creating a basketball simulator using UIKit only"
 date: 2021-03-07
-teaser: /assets/images/basket/preview.jpg
+teaser: /assets/images/instagram/6.jpg
 ---
 
   There are a lot of useful built-in tools in UIKit. Believe it or not, there is a whole physics engine integrated into the framework. It is called UIKit Dynamics, and it allows you to add different behaviors(for example, elasticity) to your views.
 
   Today, we are going to make a simple basketball simulator, using only UIKit. Let’s get started!
 
-![full](/assets/images/basket/preview.jpg){: .full}
+![full](/assets/images/instagram/6.jpg){: .full}
 <p style="text-align:center"><span style="color:gray"><sup><sub>an image from my iosdev.kz Instagram account</sub></sup></span></p>
 
 
@@ -116,7 +116,7 @@ class CircleView: UIImageView {
   Finally, it’s time to create a basketball hoop. Let’s go!
   Because we are making a 2d-version of basketball, our hoop will be made of these parts(view image):
 
-![image-right](/assets/images/basket/hoop.png)
+![image-right](/assets/images/instagram/hoop.png)
 
 
   The parts of the hoop will be just separate views:
