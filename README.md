@@ -1,1 +1,1 @@
-
+iosdev.kz static website
