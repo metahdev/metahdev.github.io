@@ -54,14 +54,14 @@ reCaptcha:
 atom_feed:
   path                   : # blank (default) uses feed.xml
   hide                   : # true, false (default)
-search                   : true
+search                   : false
 search_full_content      : # true, false (default)
 search_provider          : algolia
 algolia:
   application_id         : ZV0DVF9AQ0
   index_name             : prod_iosdev
   search_only_api_key    : 39723c357f6f6c0667a347e450010d44
-  powered_by             : true 
+  powered_by             : false 
 google:
   search_engine_id       : # YOUR_SEARCH_ENGINE_ID
   instant_search         : # false (default), true
