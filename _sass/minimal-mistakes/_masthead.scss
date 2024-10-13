@@ -11,6 +11,7 @@
   animation-delay: 0.15s;
   z-index: 1;
   background-color: $light-gray !default; 
+  max-width: 100%;
 
   &__inner-wrap {
     @include clearfix;
