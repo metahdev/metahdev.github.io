@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "en-US"
-title                    : "iOS developer-enthusiast"
+title                    : "Software Engineer"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Askar Almukhamet"
@@ -94,8 +94,8 @@ analytics:
 author:
   name             : "Askar Almukhamet"
   avatar           : "/assets/images/bio-photo.png"
-  bio              : Sálem Álem! 🇰🇿<br />I'm a teenager who enjoys<br />developing iOS apps. <br /> <br />Welcome to my blog!
-  location         : "Atyrau, Kazakhstan"
+  bio              : "Bachelor of Science in Electrical Engineering and Computer Sciences @ UC Berkeley"
+  location         : "Berkeley, United States"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -106,12 +106,6 @@ author:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://linkedin.com/metahdev"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/metahdev"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/iosdev.kz"
 
 # Site Footer
 footer:
