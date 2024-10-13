@@ -1,5 +1,5 @@
 ---
-title: "Getting started"
+title: "Getting started with iOS development"
 date: 2021-01-12
 teaser: /assets/images/instagram/3.jpg
 ---

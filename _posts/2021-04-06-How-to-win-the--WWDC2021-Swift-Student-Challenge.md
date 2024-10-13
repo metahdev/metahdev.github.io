@@ -1,5 +1,5 @@
 ---
-title: "How to win the  WWDC21 Swift Student Challenge"
+title: "How I won the  WWDC21 Swift Student Challenge"
 date: 2021-04-06
 teaser: /assets/images/instagram/7.jpg
 ---
