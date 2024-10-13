@@ -15,6 +15,7 @@
     @include clearfix;
     margin-left: auto;
     margin-right: auto;
+    max-width: $max-width; // Keeps inner content within 
     padding: 1em;
     max-width: 100%;
     display: -webkit-box;
