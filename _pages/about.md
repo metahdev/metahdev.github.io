@@ -4,9 +4,9 @@ permalink: /about/
 layout: single
 author_profile: true
 ---
-I am an 18-years-old teenager from Atyrau, Kazakhstan.  I enjoy playing video games and cycling. I am also a huge fan of the Black Keys music band. 
+I am a 2nd year Electrical Engineering & Computer Sciences student at the University of California, Berkeley. I am originally from Atyrau, Kazakhstan.  
 
-I started developing iOS apps at the age of 14 and instantly fell in love with the process. I also enjoy sharing with people, and that’s why I decided to start this blog.
+I started developing iOS apps at the age of 14. For some time I enjoyed writing articles about it, and they are archived on this website. 
 
 ![full](/assets/images/about/me.png){: .full}
 <p style="text-align:center"><span style="color:gray"><sup><sub>an image from wwdcscholars.com</sub></sup></span></p>
