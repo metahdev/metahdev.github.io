@@ -1,0 +1,13 @@
+footer_menu__settings:
+  menu__items:
+    - title: "Home"
+      url: "/"
+    - title: "About"
+      url: "/about/"
+    - title: "Projects"
+      url: "/projects/"
+    - title: "Join CAYSI"
+      url: "/join/"
+
+copyright_text_html: >-
+  <p>2024 &copy; <a href="/">CAYSI</a>.</p>
