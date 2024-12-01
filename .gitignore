@@ -3,3 +3,5 @@ _site
 .jekyll-metadata
 Gemfile.lock
 _algolia_api_key
+.DS_Store
+.DS_Store
